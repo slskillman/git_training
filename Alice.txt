@@ -1,2 +1,6 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+<<<<<<< HEAD
 Here's some text on the second line.  Additional Change. Even another change.
+=======
+Remote Change
+>>>>>>> 0d7c4b070df396ffe64728c4240c66116b498d91
